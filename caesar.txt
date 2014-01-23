@@ -1,4 +1,4 @@
-# A Soliloquy of Marc Antony
+﻿# A Soliloquy of Marc Antony
 
 O pardon me thou bleeding piece of earth
 That I am meek and gentle with these butchers
@@ -16,3 +16,6 @@ And dreadful objects so familiar
 That mothers shall but smile when they behold
 Their infants quarter'd by the hands of war
 
+
+
+Changed by SANDEEP
